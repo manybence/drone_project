@@ -1,0 +1,3 @@
+PID for velocity control:
+140 - 170
+Currently 150 is looking good
